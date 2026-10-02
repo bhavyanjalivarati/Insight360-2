@@ -1,4 +1,4 @@
-#🚀 Insight360
+# 🚀 Insight360
 Customer Intelligence & Customer 360 Platform
 
 Insight360 is a platform that puts all customer information in one place. It helps sales teams understand customers, find problems early, improve relationships, and increase customer retention.
