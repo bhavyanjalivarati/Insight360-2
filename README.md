@@ -10,17 +10,55 @@ Customer information is often spread across different systems like sales, paymen
 Insight360 brings this information together so the team can easily understand the complete customer situation.
 
 ⭐ Main Features
-👤 Customer 360 – View complete customer details in one place.
-❤️ Health Score – See how healthy the customer relationship is.
-⚠️ Churn Risk – Identify customers who may leave.
-🤝 Relationship Tracking – Find customers whose relationships need attention.
-🔄 Recovery Actions – Help sales teams improve weak customer relationships.
-🏆 Loyalty Levels – Track customer loyalty and benefits.
-📊 Sales Pipeline – Track leads, deals, and sales progress.
-📋 Customer Submission – Collect and review new customer information.
-💳 Payment Tracking – Monitor customer payment status.
-📈 Analytics – View important customer and sales information through dashboards.
-🔐 Role-Based Access – Different access for Admin, Manager, Sales Executive, and Customer.
+👤 1. Customer 360
+
+Provides a complete view of customer information in one place, including customer details, sales activities, payments, relationships, loyalty, and customer health.
+
+❤️ 2. Customer Health Score
+
+Shows the overall health of the customer relationship and helps the team identify customers who need attention.
+
+⚠️ 3. Churn Risk Detection
+
+Identifies customers who may be at risk of leaving based on important customer and relationship signals.
+
+🤝 4. Relationship Tracking
+
+Monitors customer relationships and highlights customers whose engagement or relationship may need attention.
+
+🔄 5. Recovery Actions
+
+Helps sales teams take follow-up and recovery actions when a customer relationship becomes weak.
+
+🏆 6. Loyalty Management
+
+Tracks customer loyalty levels and their associated benefits.
+
+📊 7. Sales Pipeline
+
+Allows managers and sales executives to track leads, opportunities, deals, sales stages, and progress.
+
+📋 8. Customer Submission
+
+Allows new customer information to be submitted through a form. Managers can review the request before it becomes an actual customer.
+
+💳 9. Payment Tracking
+
+Tracks customer payment information and statuses such as paid, pending, partially paid, and overdue.
+
+📈 10. Analytics Dashboard
+
+Provides charts and dashboards to understand customer data, sales performance, loyalty, health, and other important business information.
+
+🔐 11. Role-Based Access
+
+Provides different permissions and features based on the user's role:
+
+Admin
+Manager
+Sales Executive
+Customer
+
 🔄 Customer Workflow
 Customer Submission
         ↓
@@ -35,6 +73,7 @@ Customer 360
 Health + Loyalty + Churn + Relationship
         ↓
 Actionable Insights
+
 👥 User Roles
 
 Admin
